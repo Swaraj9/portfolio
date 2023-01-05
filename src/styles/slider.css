@@ -1,0 +1,6 @@
+.slider{
+    padding: 80px 80px 80px 0px;
+    font-size: 48px;
+    position: sticky;
+    top:calc(50vh - 104px);
+}

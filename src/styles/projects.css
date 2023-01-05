@@ -1,0 +1,20 @@
+.projects{
+    padding-left: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.projectsMain{
+    display: grid;
+    width: min-content;
+    grid-template-columns: auto auto;
+    gap: 40px;
+}
+
+.project{
+    width: 480px;
+    height: 480px;
+    background-color: var(--white);
+    border-radius: 10px;
+}
